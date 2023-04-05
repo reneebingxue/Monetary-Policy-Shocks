@@ -1,7 +1,8 @@
 #File: Homework_8.R
-#Course: Advanced Macroeconomics
+#Course: Advanced Macroeconomics Theory
 #Author: Renee Li
 #Date: 2021-05-13
+
 
 #CLEAR UP MY CONSOLE##################
 cat("\014")
